@@ -2,7 +2,7 @@ title: Binhoul.GitHub.io
 description: 小雷的技术博客
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
